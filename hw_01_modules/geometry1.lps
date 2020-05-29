@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="geometry1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="44" Y="27"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="geometry.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Geometry"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="80"/>
+        <CursorPos X="42" Y="114"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="geometry.pas"/>
+        <Caret Line="96" Column="5"/>
+      </Position1>
+      <Position2>
+        <Filename Value="geometry.pas"/>
+        <Caret Line="101" Column="10" TopLine="72"/>
+      </Position2>
+      <Position3>
+        <Filename Value="geometry.pas"/>
+        <Caret Line="44" Column="22" TopLine="27"/>
+      </Position3>
+      <Position4>
+        <Filename Value="geometry.pas"/>
+        <Caret Line="21" Column="22" TopLine="4"/>
+      </Position4>
+      <Position5>
+        <Filename Value="geometry.pas"/>
+        <Caret Line="22" Column="25" TopLine="5"/>
+      </Position5>
+      <Position6>
+        <Filename Value="geometry.pas"/>
+        <Caret Line="27" Column="16" TopLine="10"/>
+      </Position6>
+      <Position7>
+        <Filename Value="geometry1.pas"/>
+        <Caret Line="25" Column="35"/>
+      </Position7>
+      <Position8>
+        <Filename Value="geometry1.pas"/>
+        <Caret Line="11" Column="15"/>
+      </Position8>
+      <Position9>
+        <Filename Value="geometry1.pas"/>
+        <Caret Line="12"/>
+      </Position9>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
